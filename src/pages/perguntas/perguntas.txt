@@ -1,0 +1,46 @@
+const questions = [
+ {
+     id: 1,
+     question: "Sua música tem conteúdo explícito?",
+     description: "Uma música explícita é aquela que contém palavrões, linguagem ofensiva ou tratam de temas adultos (18+)."
+ },
+ {
+     id: 2,
+     question: "Sua música é dançante?",
+     description: "Se sua música faz mexer o esqueleto, então marque Sim para essa pergunta."
+ },
+ {
+     id: 3,
+     question: "Sua música é enérgica?",
+     description: "a"
+ },
+ {
+  id: 4,
+  question: "Sua música é um Rap?",
+  description: "A base desse questionamento vem do quanto uma música apresenta palavras faladas, ao invés de cantadas, em sua composição. Se a sua for constituída majoritariamente por palavras faladas, então marque Sim para esse ponto."
+},
+ {
+     id: 5,
+     question: "Sua música é acústica?",
+     description: "Se sua música apresenta características acústicas, marque Sim para essa pergunta."
+ },
+ {
+     id: 6,
+     question: "Sua música é instrumental?",
+     description: "Uma música instrumental é aquela que contém somente instrumentos, e/ou vocais como “Ooh” e “aah”."
+ },
+ {
+  id: 7,
+  question: "Sua música foi gravada com plateia?",
+  description: "	Se é possível ouvir plateia na sua gravação, marque Sim para essa pergunta."
+},
+{
+ id: 8,
+ question: "Sua música é feliz?",
+ description: "Se sua música deixa um sorriso no rosto dos seus fãs, então marque Sim aqui."
+},
+
+
+]
+
+export default questions;
