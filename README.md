@@ -1,6 +1,8 @@
 # Hitboard
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=shields)](http://makeapullrequest.com)
 
@@ -12,11 +14,22 @@ O Hitboard tem como cerne um modelo reconhecido nas principais conferências de 
 
 ## Requisitos
 
-Colocar aqui os requisitos pra rodar o sistema a partir do repo.
+Para rodar o Hitboard você irá precisar de:
+
+| Ferramenta   | Site para Download                        |
+| ------------ | ----------------------------------------- |
+| Python       | https://www.python.org/downloads/         |
+| pip          | https://pip.pypa.io/en/stable/installing/ |
+| NodeJs       | https://nodejs.org/en/download/           |
 
 ## Como utilizar o Hitboard
 
-Se o Hitboard não estiver disponível na web, colocar aqui como rodar o repo.
+Para utilizar o Hitboard, primeiro clone o repositório com o comando `git clone`. Após isso, para rodar basta digitar no terminal:
+
+```shell
+npm install
+npm start
+```
 
 ## Links
 
