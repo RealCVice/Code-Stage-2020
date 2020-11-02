@@ -35,6 +35,8 @@ npm start
 
 Apresentação: https://youtu.be/00UojBmkK3U
 
+Vídeo demo: https://www.youtube.com/watch?v=EtCGpgCJL_Y
+
 Slides: https://docs.google.com/presentation/d/1GPjDLyAsGut83ZJDMAP38r3b_G8PpvBrZbixhGAdujs/edit?usp=sharing
 
 Artigos base do modelo: https://scholar.google.com/citations?user=0kZvtr4AAAAJ
